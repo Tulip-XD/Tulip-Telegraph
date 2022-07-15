@@ -10,11 +10,11 @@
       "value": ""
     },
     "API_ID": {
-      "description": "Your API_ID from @Tulip_API_Bot ",
+      "description": "Your API_ID from https://t.me/Tulip_API_Bot ",
       "value": ""
     },
     "API_HASH": {
-      "description": "Your API_HASH from @Tulip_API_Bot",
+      "description": "Your API_HASH from https://t.me/Tulip_API_Bot ",
       "value": ""
     }
    },

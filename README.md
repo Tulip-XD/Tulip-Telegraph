@@ -1,35 +1,19 @@
-# Telegraph Uploader BoT By ŁGcY・AŁEX
+## 🌷 𝗧ᴜʟɪᴘ 🌷
+---
+<p align="center"><a href="https://t.me/ITz_Tulip_XD"><img src="https://te.legra.ph/file/c7efc5ee39166fbf709ef.jpg" width="300"></a></p>
+<p align="center"><a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=silver" /></a>
 
+---
+  
+<h3> 𝗗ᴇᴘʟᴏʏ 𝗧ᴏ 𝗛ᴇʀᴏᴋᴜ </h3>
 
-#### A star ⭐ from you means a lot to us!
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-<p align="center"><a href="https://www.github.com/lgcyalex"><img src="https://te.legra.ph/file/573cf7b80911ffbe278aa.jpg" width="2000"></a></p>
+---
 
-Telegraph  File Photo and many more Uploader.....
+### 𝗦ᴜᴘᴘᴏʀᴛ 𝗔ɴᴅ 𝗚ʀᴏᴜᴘ
 
+- <a href="https://t.me/ITz_Tulip"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a>
+- <a href="https://t.me/Tulip_OP"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
-## Usage
-
-### Deploy to Heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lgcyalex/Telegraph-Uploader)
-
-
-# Demo 
-<a href="https://t.me/TeleUploaderRexBot"><img src="https://img.shields.io/badge/Telegraph Uploader Rex Bot-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-
-
-
-## Support
-
-Channel :- [Join Group](https://t.me/LGCY_OFFICIAL)
-
-Group Chat :- [Group support](https://t.me/Clan8Xofficial)
-
-
-
-
-
-
-
-
+---
